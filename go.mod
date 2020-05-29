@@ -36,3 +36,5 @@ require (
 	gotest.tools v2.2.0+incompatible
 	gotest.tools/v3 v3.0.3-0.20200410202438-4e4a41b7851a
 )
+
+replace github.com/variantdev/chartify => github.com/ento/chartify v0.3.3-0.20200529063155-ef77397b0d64
